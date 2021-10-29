@@ -2,8 +2,7 @@ package br.senai.sp.jandira;
 
 import br.senai.sp.jandira.model.Conta;
 
-public class TabuadaApp {
-
+public class tabuada {
 	public static void main(String[] args) {
 
 		Conta x = new Conta();
